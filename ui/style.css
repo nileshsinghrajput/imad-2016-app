@@ -1,22 +1,81 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    font-family: Comic Sans MS;
+    background-color: black;
+    margin-top: 10px;
+    color: white;
+    margin: 10px;
 }
 
 .center {
     text-align: center;
+    font-family: lithos pro;
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 200%;
+    
 }
 
 .bold {
     font-weight: bold;
-}
+ }
 
 .img-medium {
-    height: 200px;
+    height: 249px;
 }
 
+hr {
+    display: block;
+    margin: 10px;
+    margin-bottom: 0.5em;
+    border-style: inset;
+    border-width: 2px
+}
+
+p {
+    text-align: center;
+    margin: 6px;
+    background-color: white;
+    color: black;
+}
+
+#mar-f{
+    margin-top: 15px;
+}
+
+
+i {
+   color: grey;
+ }
+
+.nirb-img{
+  height: 150px;
+  width: 220px;
+}
+
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+a.one:active {color: red;}
+
+.headng{
+   font-family: latin;
+   color: red; 
+   font-size: 150%;
+}
+
+.mal-img{
+   height: 190px;
+   width: 350px;
+}
+
+
+.footer{
+    background: #333;
+    color: #aaa;
+    min-height: 30px;
+    line-height: 20px;
+    font-size: 15px;
+    padding: 17.5px 25px;
+    text-align: right;
+}
