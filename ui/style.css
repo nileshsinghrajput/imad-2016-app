@@ -53,10 +53,10 @@ i {
   width: 220px;
 }
 
-a.one:link {color:#ff0000;}
+a.one:link {color:blue;}
 a.one:visited {color:#0000ff;}
 a.one:hover {color:#ffcc00;}
-a.one:active {color: red;}
+a.one:active {color: blue;}
 
 .headng{
    font-family: latin;
